@@ -36,15 +36,9 @@ State Management: Using a gameStarted boolean to prevent actions (like cheating)
 
 Custom Logging Function: A modular UpdateLoggingText method that handles text selection and color formatting dynamically.
 
-C#
-// Example of the color-coded logging logic used:
-private void UpdateLoggingText(string a_text, string a_colorCode)
-{
-    // R = Red, G = Green, B = Black
-    // Logic handles prefixing line numbers (D4 format) and auto-scrolling.
-}
 📜 Credits
 Developer: Juliusz Krajewski
-
 Framework: Windows Forms (WinForms)
+
+
 <img width="652" height="492" alt="Screenshot 2026-03-01 144711" src="https://github.com/user-attachments/assets/3249df3d-ccd6-4c26-b455-d3159c3a0345" />
